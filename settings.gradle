@@ -1,0 +1,1 @@
+include ':app', ':exercicio02', ':exercicio02', ':exercicio06'
